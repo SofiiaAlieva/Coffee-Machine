@@ -1,0 +1,25 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    class PiggyBank:
+        # create __init__ and add_money methods
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6987
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 18. You answer was: 1 99. Correct answer was: 2 0
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    0 99
+    Correct output:
+    2 0
+
+    Your code output:
+    1 99
+  time: Wed, 08 Jul 2020 10:24:32 UTC
+record: -1

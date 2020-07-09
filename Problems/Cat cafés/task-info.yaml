@@ -1,0 +1,17 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9149
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 5. Runtime error
+
+    Traceback (most recent call last):
+      File "jailed_code", line 12, in <module>
+        print(name_list[numbers.index()[max(numbers)]])
+    TypeError: index() takes at least 1 argument (0 given)
+  time: Sun, 05 Jul 2020 15:09:22 UTC
+record: -1

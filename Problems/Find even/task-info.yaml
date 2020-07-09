@@ -1,0 +1,27 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6542
+status: Solved
+feedback:
+  message: |-
+    Failed test #1 of 16. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    8
+    Correct output:
+    2
+    4
+    6
+
+    Your code output:
+    2
+    4
+    6
+    8
+  time: Sat, 04 Jul 2020 12:10:38 UTC
+record: -1
